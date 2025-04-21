@@ -1,0 +1,185 @@
+{
+	"info": {
+		"_postman_id": "58e768c4-7c8f-4986-ba03-61eb1efa7451",
+		"name": "Spring AI RAG",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30426784"
+	},
+	"item": [
+		{
+			"name": "Embedding",
+			"item": [
+				{
+					"name": "plain",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/embedding/plain",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"embedding",
+								"plain"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "auto",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/embedding/auto",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"embedding",
+								"auto"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Vector Store",
+			"item": [
+				{
+					"name": "load",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/vector-store/load",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"vector-store",
+								"load"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "search",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/vector-store/similar-search",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"vector-store",
+								"similar-search"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/vector-store/delete-filtered",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"vector-store",
+								"delete-filtered"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "RAG",
+			"item": [
+				{
+					"name": "loadData",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/rag/load-data",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"rag",
+								"load-data"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "NO Rag",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/rag/no-rag",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"rag",
+								"no-rag"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Rag",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/rag/rag",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"rag",
+								"rag"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

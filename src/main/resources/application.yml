@@ -1,19 +1,23 @@
 spring:
   application:
     name: springai-demo
- 
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
   ai:
     ollama:
       chat:
         options:
           model: llama3.2:1b
-#          model: llava
     
-      init:
-        pull-model-strategy: when-missing
-        chat:
-          additional-models:
-            - llava  
+    vectorstore:
+      pgvector:
+        index-type: HNSW
+        distance-type: COSINE_DISTANCE
+        dimensions: 1024
+        max-document-batch-size: 10000
+        initialize-schema: true
     
   threads:
     virtual:
