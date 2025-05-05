@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "etiqueta": "ia",
+    "titulo": "La voz y los vídeos en la IA"
+  },
+  {
+    "id": 2,
+    "etiqueta": "accesibilidad",
+    "titulo": "Accesibilidad: desarrollando aplicaciones inclusivas"
+  },
+  {
+    "id": 3,
+    "etiqueta": "native",
+    "titulo": "De Digital Native a AI Native: la nueva era de la IA en los negocios"
+  },
+  {
+    "id": 4,
+    "etiqueta": "green",
+    "titulo": "GreenOps: liderando el cambio hacia un futuro sostenible"
+  },
+  {
+    "id": 5,
+    "etiqueta": "transformacion",
+    "titulo": "Transformación impulsada por evidencias"
+  },
+  {
+    "id": 6,
+    "etiqueta": "humanista",
+    "titulo": "Liderazgo Sistémico Humanista"
+  },
+  {
+    "id": 7,
+    "etiqueta": "cloud",
+    "titulo": "Industry Cloud Platforms"
+  },
+  {
+    "id": 8,
+    "etiqueta": "agentic",
+    "titulo": "Agentic AI"
+  },
+  {
+    "id": 9,
+    "etiqueta": "webassembly",
+    "titulo": "WebAssembly (WASM)"
+  },
+  {
+    "id": 10,
+    "etiqueta": "dragdrop",
+    "titulo": "Soluciones Drag and Drop para IA generativa"
+  }
+]

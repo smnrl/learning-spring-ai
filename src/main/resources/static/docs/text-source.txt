@@ -1,0 +1,277 @@
+Más allá del hype: tendencias
+tecnológicas que marcarán 2025
+Hacer un pronóstico sobre las tendencias tecnológicas que más impacto van a tener
+en 2025 no es fácil. En el sector tech, donde los avances se producen tan
+rápidamente, es complicado poner la mirada a largo plazo.
+Aún así, nuestros equipos han querido recopilar las 10 tendencias tecnológicas a las
+que no deberíamos perder la pista durante los próximos meses. Sin duda, la IA
+seguirá siendo una apuesta segura y seguirá sorprendiéndonos a nivel empresa y
+como usuarios finales.
+Pero no todo es IA, también veremos tendencias hacia la sostenibilidad, hacia la
+accesibilidad, incluso hacia liderazgos que se pronostican más humanos y
+adaptados al entorno digital.
+Estas son las 10 tendencias sobre las que ponemos foco este 2025. Algunas ya nos
+sorprendieron el año pasado y sabemos que hay muchas más que no están en esta
+lista.
+
+1 La voz y los vídeos en la IA
+La IA generativa para vídeo y voz se está posicionando como una de las tecnologías
+más transformadoras. Herramientas como Synthesia y Descript ya permiten crear
+avatares que hablan varios idiomas o transformar texto en vídeo de forma
+automática, revolucionando la creación de contenido multimedia.
+Esto es particularmente útil para pequeñas empresas que, sin grandes presupuestos
+de producción, pueden crear campañas publicitarias personalizadas a bajo costo y
+de forma rápida.
+Para 2025, el uso de modelos de generación de voz como VALL-E o NaturalSpeech 2
+permitirá no solo la creación de voces sintéticas hiperrealistas, sino también la
+capacidad de clonar voces con apenas unos segundos de audio.
+Esta tecnología será crucial para la producción de contenido multimedia en
+marketing, educación o incluso en la creación de asistentes virtuales
+personalizados.En el ámbito educativo, por ejemplo, la IA permitirá la creación de vídeos educativos
+adaptados a las necesidades de aprendizaje individuales, con la posibilidad de
+interactuar en tiempo real con avatares generados por IA.
+Es por ello que, desde el desarrollo de aplicaciones móviles, también debemos hacer
+un esfuerzo por garantizar que nuestras apps puedan ser utilizadas por todo el
+mundo. Además, tenemos un reto añadido, y es que solo contamos con el limitado
+tamaño de pantalla que estos dispositivos nos ofrecen, así como la imposibilidad
+muchas veces de añadir todo el hardware necesario sin perder su esencia móvil.
+
+2 Accesibilidad: desarrollando aplicaciones
+inclusivas
+Cuando hablamos de accesibilidad, siempre nos viene de forma automática a la
+cabeza el mundo de las aplicaciones web. Es normal, el mundo front lleva luchandopara conseguir que sus webs sean accesibles desde hace muchos años y allanando
+el camino a lo que ha ido llegando detrás.
+Con el auge de los dispositivos móviles, cada vez más usuarios/as se han
+acostumbrado a contar con uno de estos “aparatitos” en su bolsillo y hacer un uso
+intensivo del mismo.
+Es por ello que, desde el desarrollo de aplicaciones móviles, también debemos hacer
+un esfuerzo por garantizar que nuestras apps puedan ser utilizadas por todo el
+mundo.
+Además, tenemos un reto añadido, y es que solo contamos con el limitado tamaño
+de pantalla que estos dispositivos nos ofrecen, así como la imposibilidad muchas
+veces de añadir todo el hardware necesario sin perder su esencia móvil.
+En 2023, un 57% de todo el tráfico de Internet provenía de dispositivos móviles,
+según Stadista. Además, esta tendencia se encuentra en crecimiento en los últimos
+años.
+Los dispositivos móviles pueden ser un grandísimo aliado para los usuarios/as con
+discapacidad si conseguimos cumplir con las normas de accesibilidad. Pero su
+aporte no queda solo aquí, gracias a que estos usuarios/as cuentan con un móvilque pueden transportar a cualquier sitio, les estamos ofreciendo además una
+increíble herramienta para hacer su día a día más llevadero.
+
+3 De Digital Native a AI Native: la nueva era
+de la IA en los negocios
+Mientras que muchas empresas siguen atascadas en sus procesos de
+transformación digital bajo el mantra impuesto por lo “Digital Native” y “Cloud
+Native” llega el momento de volver a repensar todo bajo un nuevo paradigma: “AI
+Native”.
+Sin embargo, esa espera está llegando a su fin. Actualmente la IA ha madurado
+hasta llegar a considerarse estable en la resolución de múltiples tipos de problemas.
+Si a esto le sumamos la revolución de los LLMs (popularizados por su aplicación
+ChatGPT) nos encontramos con que ya tampoco hacen falta complejos y carossistemas de IA para desarrollar aplicaciones que antes solo se podían permitir unos
+pocos.
+Los sorprendentes avances donde los grandes players de IA deslumbraban con
+demostraciones o sesudos artículos, muchas veces se quedaban en material de
+laboratorio que aún necesitaba ser madurado hasta que realmente fueran estables y
+se pudiesen aplicar en el mundo real.
+¿Qué significa ser AI Native? Una aplicación AI Native es aquella que, desde su
+concepción, está diseñada con la IA como componente central e indispensable de
+tal forma que sin ella no podría existir.
+No se trata de añadir una capa de IA a un producto existente, sino de construir una
+solución digital donde esta tecnología sea el motor que impulsa todas sus
+funcionalidades.
+Es tiempo de cambio, la generación de los “Digital Natives” irán dando paso a la de
+los “AI Natives” y toca volver a adaptarse sin haber terminado de adaptarnos a lo
+anterior.
+
+4 GreenOps: liderando el cambio hacia un
+futuro sostenible
+En una sociedad cada vez más consciente de su impacto ambiental, las empresas
+están cada vez más comprometidas buscando formas innovadoras de operar de
+manera sostenible sin comprometer su crecimiento. Aquí es donde entra en juego
+GreenOps, una práctica que pretende revolucionar la forma en que gestionamos
+actualmente nuestras infraestructuras cloud.
+GreenOps va más allá de la simple reducción de la huella de carbono. Se trata de
+optimizar los recursos cloud de manera inteligente, utilizando tecnologías limpias y
+eficientes para optimizar el consumo y maximizar el rendimiento, contribuyendo a un
+futuro más sostenible.
+La implementación de GreenOps no es fácil y requiere un enfoque holístico que
+involucre a toda la organización. Desde los equipos de IT responsables de evaluar la
+infraestructura actual, adoptar nuevas tecnologías y prácticas innovadoras, hasta las
+áreas de finanzas y adquisiciones encargadas de gestionar los costes y garantizar elcumplimiento de las regulaciones emergentes, que entre otras cosas exigen
+informes de sostenibilidad, etc.
+Implementar FinOps como punto de partida es fundamental para iniciar el camino
+hacia GreenOps. Al obtener visibilidad y control sobre el gasto y el consumo en
+cloud, las empresas pueden identificar las áreas de mayor consumo energético y
+tomar medidas para optimizarlas.
+La adopción de GreenOps es una oportunidad única para liderar el cambio hacia un
+futuro más verde. Las organizaciones que integren esta práctica en su estrategia
+empresarial pueden marcar la diferencia, creciendo de manera responsable y
+sostenible, fortaleciendo su posición en el mercado y atrayendo a un público cada
+vez más exigente.
+
+5 Transformación impulsada por evidencias
+La inmediatez y la escasez de momentos conscientes de observación y reflexión
+están provocando que nos ahoguemos en las tendencias y que constantemente
+tomemos decisiones basadas en percepciones y emociones.
+Sí, transformarnos es necesario tanto para sobrevivir como para ganar ventaja
+competitiva. Y aun así, ¿qué ocurre si nuestra estrategia de cambio pivota
+demasiado rápido? ¿Y si no llegamos a generar un hábito? ¿Qué pasa si vivimos en
+el hacer en lugar de en el ser? Tenemos información, ¿pero realmente hay
+aprendizaje?
+Llevamos décadas sumergiéndonos en procesos de transformación y seguimos
+igual. Ahora es el momento álgido de la Inteligencia Artificial, pero también lo es o
+ha sido de la Automatización Robótica de Procesos (RPA), Big Data, la Nube, los
+microservicios, el Metaverso, la realidad aumentada, los coches eléctricos, las áreas
+de People en lugar de Recursos Humanos, HR Analytics, los líderes al servicio de la
+organización, el teletrabajo, las oficinas sin despachos… e infinitas tendencias
+existentes que, en muchas ocasiones, adoptamos dejándonos llevar por el estiloPrêt-à-porter, sin entender qué impacto, positivo o negativo, realmente nos está
+generando.
+Por todo ello, es fundamental llevar a cabo las transformaciones impulsadas por
+evidencias alejándonos de la hacerlas soportadas en costes hundidos, sino por
+hechos y resultados objetivos, pudiendo centrándonos no solo en lo que estamos
+haciendo, sino en cómo lo estamos haciendo, en cómo nos estamos comportando y
+en cómo estamos impactando.
+
+6 Liderazgo Sistémico Humanista
+El Liderazgo Sistémico Humanista parte de la premisa de que las personas no
+actúan de manera aislada, sino que son sistemas dentro de sistemas más amplios,
+como equipos, organizaciones y sociedades. En este enfoque, entender a los
+individuos como parte de un todo interconectado permite una visión más integral y
+profunda de sus valores, comportamientos, expectativas y necesidades.
+Además, este liderazgo pone en el centro a la persona, no como un
+recurso/stakeholder más dentro de una estructura organizativa ampliada, sino comoun ser humano integral cuyas motivaciones y emociones influyen en la eficiencia e
+impacto colectivo.
+La clave para el liderazgo en 2025 reside precisamente en esa capacidad de
+comprender cómo las personas se comunican y se relacionan entre sí, tanto en
+entornos laborales como personales.
+Debemos promover entornos que permitan construir y cultivar relaciones sanas y
+redes interpersonales sólidas para guiar a los equipos hacia un crecimiento
+equilibrado y colaborativo.
+
+7 Industry Cloud Platforms
+Las Industry Cloud Platforms (Plataformas en la Nube para Industrias) son
+soluciones creadas en la nube específicamente para satisfacer las necesidades
+particulares de un sector o industria.Estas plataformas combinan servicios en la nube con aplicaciones, datos y
+tecnologías avanzadas (como IA, ML y analytics) adaptadas a los desafíos,
+regulaciones y requisitos de cada industria en particular.
+Gartner predice que para 2027, más del 70% de las empresas utilizarán Industry
+Cloud Platforms (ICP) para acelerar sus iniciativas de negocio, frente al 15% que las
+utilizaba en 2023.
+
+Personalización por industria: para cada industria (salud, manufacturera,
+finanzas, retail,etc.) ofrecen herramientas y soluciones específicas. De esta
+forma las empresas tienen acceso a funciones diseñadas específicamente
+para los flujos de trabajo, las normativas y las necesidades de su sector.
+
+Integración de tecnologías avanzadas: mediante el uso de inteligencia
+artificial (IA), machine learning (ML), análisis de datos, IoT (Internet de las
+Cosas) y automatización, estas plataformas pueden ofrecer soluciones
+avanzadas, como previsión de la demanda, optimización de operaciones y
+mejora de la experiencia del cliente.
+
+Servicios en la nube y escalabilidad: al tener su infraestructura en la nube son
+altamente escalables y pueden adaptarse a las necesidades cambiantes del
+negocio.
+Ecosistema de soluciones: suelen incluir aplicaciones y herramientas que se
+integran con otros servicios en la nube o con soluciones de terceros, creando
+un ecosistema que facilita la colaboración entre diferentes herramientas y
+servicios.
+
+Cumplimiento normativo: como están diseñadas para industrias específicas,
+estas plataformas incluyen funciones para cumplir con las regulaciones y
+normativas específicas, como normativas de privacidad de datos (por
+ejemplo, HIPAA en salud o GDPR en Europa) o estándares de calidad.
+En el mercado se pueden encontrar tanto vendors que ofrecen plataformas para
+diferentes compañías como empresas que están impulsando la creación de sus
+propias plataformas. En el primer grupo estarían Salesforce Industry Clouds, Google
+Cloud for Retail o Microsoft Cloud for Healthcare.
+Entre las empresas que han implementado Industry Cloud Platforms con éxito
+podemos hablar de Siemens MindSphere (para IoT e industria manufacturera),
+Volkswagen (para Automotriz), Johnson & Johnson - Industry Cloud en el sector
+Salud, Coca-Cola Intelligent Industry Cloud (para Retail) y Lloyds Banking Group -
+Industry Cloud para Servicios Financieros.Las Industry Cloud Platforms van a ser una herramienta clave para transformar
+industrias completas, aumentando la eficiencia, personalizando servicios y
+mejorando la capacidad de las empresas para adaptarse a las necesidades de un
+mercado en constante cambio.
+
+8 Agentic AI
+La IA ha evolucionado significativamente, pasando de herramientas de
+automatización básicas a modelos generativos avanzados como los grandes
+modelos de lenguaje (LLMs). Sin embargo, un nuevo paradigma llamado Agentic AI
+está emergiendo, prometiendo revolucionar el papel de la IA al permitir que los
+sistemas gestionen tareas complejas de manera autónoma.
+Agentic AI se refiere a sistemas de inteligencia artificial que poseen un alto grado de
+autonomía, capaces de tomar decisiones, planificar acciones y aprender de
+experiencias sin intervención humana constante.
+Estos sistemas pueden adaptarse a nuevos datos, interactuar con herramientas y
+bases de datos externas, y mejorar con el tiempo mediante aprendizaje continuo.
+Los beneficios incluyen una mayor flexibilidad, precisión en tareas complejas,interacciones en tiempo real y una experiencia de usuario mejorada, ya que pueden
+manejar múltiples pasos y procesos de forma autónoma.
+A pesar de su potencial, Agentic AI enfrenta desafíos significativos. Las
+consideraciones éticas son fundamentales. También hay preocupaciones sobre la
+veracidad de la información que proporcionan. Además, su adopción masiva podría
+tener un impacto en el mercado laboral, desplazando ciertos roles y aumentando la
+necesidad de recualificación profesional.
+Varias empresas líderes están adoptando Agentic AI en sus operaciones. Salesforce,
+en colaboración con Google, ha desarrollado Agentforce, que permite a agentes de
+IA interactuar autónomamente en ventas y atención al cliente. Microsoft ha lanzado
+agentes Copilot dentro de Dynamics 365 y Microsoft 365 para automatizar tareas en
+herramientas como Teams y Office. ServiceNow y Oracle también están integrando
+agentes avanzados de IA en sus plataformas para optimizar procesos empresariales
+y mejorar la eficiencia operativa.
+
+9 WebAssembly (WASM)
+La evolución de la web ha permitido que hoy en día los navegadores soporten
+aplicaciones complejas que antes requerían programas de escritorio, gracias a
+tecnologías avanzadas como WebAssembly (WASM).
+WASM ha mejorado significativamente el rendimiento de aplicaciones web al
+acercarlas al hardware del cliente, permitiendo que herramientas populares como
+Google Earth, Figma y TensorFlow funcionen fluidamente en el navegador. Este
+estándar está respaldado por el W3C WebAssembly Community Group y es
+compatible con los navegadores actuales, consolidando su uso en el entorno web.
+El verdadero cambio en el uso de WASM ocurre en el lado del servidor, con la
+introducción de WASI (WebAssembly System Interface). A diferencia de los
+navegadores, los módulos de WASM en servidores no necesitan un entorno virtual
+completo, sino solo un runtime compatible con WASI que traduzca WebAssembly a
+código máquina. Esto permite que las aplicaciones se ejecuten en un entorno seguro
+y optimizado, manteniendo un rendimiento casi nativo, sin depender de la
+arquitectura de la CPU ni del sistema operativo.Gracias a WASI, ahora es posible integrar módulos de WASM en ecosistemas de
+contenedores, donde pueden gestionarse de manera similar a los contenedores
+tradicionales. Herramientas como runwasi, crun y youki han facilitado esta
+integración, lo que abre nuevas oportunidades para aprovechar WASM en entornos
+donde antes solo se usaban contenedores convencionales, ampliando las
+posibilidades de virtualización y despliegue de aplicaciones.
+La integración de WASM y WASI en plataformas como Kubernetes demuestra el
+potencial de este ecosistema en la nube. Esta combinación está impulsada por
+compañías como CNCF, Microsoft y OKTA, que promueven el uso de WASM en
+contenedores gestionados, consolidando una infraestructura más flexible, universal
+y de alto rendimiento para la web y los servicios de computación en la nube.
+
+10 Soluciones Drag and Drop para IA
+generativa
+Las soluciones "drag and drop" tienen el foco en democratizar el acceso a
+herramientas avanzadas de IA generativa, permitiendo a profesionales con baja
+experiencia técnica aprovechar las capacidades de esta tecnología.
+Plataformas como RunwayML, Lobe AI, Google Vertex AI (Dataflow CX, ) y Microsoft
+Copilot Studio son ejemplos actuales que ofrecen interfaces gráficas intuitivas,
+facilitando la creación y personalización de modelos de IA sin escribir mucho
+código.
+Para 2025, se espera que estas plataformas evolucionen con capacidades más
+avanzadas, como la integración de flujos de trabajo empresariales completos,
+personalización avanzada de modelos y opciones para implementar aplicaciones
+directamente desde la nube o soluciones on-premise.
+Por ejemplo, herramientas como Helicone.ai permiten a los usuarios gestionar
+prompts y modelos de manera colaborativa, optimizando la IA para tareas
+específicas sin requerir conocimientos profundos en ciencia de datos. Esto permitirá
+que las empresas utilicen IA para personalizar soluciones en áreas como la atenciónal cliente, marketing o creación de contenido, con solo arrastrar y soltar
+componentes dentro de una interfaz visual.
+En el comercio electrónico, un ejemplo concreto sería el uso de estas plataformas
+para configurar recomendaciones personalizadas que analicen el comportamiento
+del consumidor en tiempo real, mejorando la experiencia de compra y optimizando
+las ventas sin la necesidad de equipos de desarrollo especializados.
+Y tú ¿por qué tendencia tecnológica
+apuestas para este 2025?
+Es probable que nos hayamos dejado alguna tendencia importante. El sector
+tecnológico es enorme y aquí solo hemos querido recopilar 10. Así que si crees que
+en esta lista falta alguna tendencia importante, puedes dejárnosla en comentarios.
+¡Te leemos!

@@ -1,6 +1,10 @@
 package com.example.springai.demo.springai_demo.application;
 
-public interface IngestionServicePort {
+import java.util.List;
 
-	void ingestData();
+import org.springframework.ai.document.Document;
+
+public interface IngestionServicePort {
+	
+	void ingestCodeData(List<Document> codeDocuments);
 }
