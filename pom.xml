@@ -28,7 +28,7 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
-		<spring-ai.version>1.0.0-SNAPSHOT</spring-ai.version>
+		<spring-ai.version>1.0.0</spring-ai.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -37,20 +37,11 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.ai</groupId>
-			<artifactId>spring-ai-ollama-spring-boot-starter</artifactId>
-			<version>${spring-ai.version}</version>
+			<artifactId>spring-ai-starter-model-ollama</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>io.micrometer</groupId>
-			<artifactId>micrometer-tracing-bridge-otel</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>io.opentelemetry</groupId>
-			<artifactId>opentelemetry-exporter-zipkin</artifactId>
 		</dependency>
 		<dependency>
 		    <groupId>org.projectlombok</groupId>
@@ -62,6 +53,10 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+		    <groupId>org.springframework.ai</groupId>
+		    <artifactId>spring-ai-starter-mcp-client</artifactId>
 		</dependency>
 	</dependencies>
 	<dependencyManagement>
@@ -75,7 +70,6 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -101,6 +95,16 @@
 				<enabled>false</enabled>
 			</releases>
 		</repository>
+		<repository>
+			<name>Central Portal Snapshots</name>
+			<id>central-portal-snapshots</id>
+			<url>https://central.sonatype.com/repository/maven-snapshots/</url>
+			<releases>
+				<enabled>false</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
 	</repositories>
-
 </project>
