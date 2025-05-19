@@ -37,17 +37,14 @@ docker run -d -p 9411:9411 openzipkin/zipkin
 mvn clean install
 ```
 
-5 - Ejecución de aplicación. En la carpeta raíz del proyecto lanzar el siguiente comando:
+5 - En caso de usar la conexión SSE con el servidor MCP implementado con Spring AI se tendrá que ejecutar dicha aplicación previamente a esta.
+
+
+6 - Ejecución de aplicación. En la carpeta raíz del proyecto lanzar el siguiente comando:
 
 ```
 mvn clean spring-boot:run
 ```
 
-6 - Ejecutar la colección Postman disponible teniendo en cuenta el código habilitado para ello.
+7 - Ejecutar la colección Postman disponible.
 
-
-
-Nota: para que la aplicación funcione correctamente cuando se deshabilite la propiedad spring.ai.chat.client.enabled
-se deberán realizar los siguientes cambios en el código:
-- En la clase TravelController comentar la línea: @Qualifier("param-chat-client")
-- En la clase ChatClientConfig comentar el método del Bean: @Bean("param-chat-client")
