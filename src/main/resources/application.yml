@@ -1,33 +1,12 @@
 spring:
   application:
-    name: springai-demo
- 
+    name: springai-mcp-server-demo
+  
   ai:
-    ollama:
-      chat:
-        options:
-          model: llama3.2:1b
-#          model: llava
+    mcp:
+      server:
+        name: mcp-server-demo
+        version: 1.0.0
+        type: SYNC
     
-      init:
-        pull-model-strategy: when-missing
-        chat:
-          additional-models:
-            - llava  
-    
-  threads:
-    virtual:
-      enabled: true
-
-#Propiedad para deshabilitar la creacion automatica del chatClient por parte de Spring     
-#spring.ai.chat.client.enabled: false
-
-#Propiedad que permite mostrar en las trazas el input del usuario
-spring.ai.chat.client.observations.include-input: true
-#Propiedad para que zipkin reciba el 100% de las trazas de llamadas
-management.tracing.sampling.probability: 1
-
-#Propiedades de actuator
-management.endpoints.web.exposure.include: "*"
-management.endpoint.health.show-details: always      
-      
+server.port: 8081

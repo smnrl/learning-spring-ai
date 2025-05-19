@@ -1,16 +1,17 @@
 package com.example.springai.demo.springai_demo.application.domain;
 
-import java.util.List;
-
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class TravelRecommendation {
+@Builder
+public class User {
 
-	private List<City> cities;
+	private String name;
+	private String mail;
 	
 }
